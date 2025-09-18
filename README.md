@@ -71,7 +71,7 @@ Nova Bank faces a dual challenge: approving loans to deserving customers while m
 ---
 
 ### Link to Report
-
+[Power BI](https://app.powerbi.com/view?r=eyJrIjoiNmNjMDI5ZWYtN2E0Zi00NTNjLTllZTktMDZmMzIwZjEzOTAyIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 ---
 
 ### Conclusion
