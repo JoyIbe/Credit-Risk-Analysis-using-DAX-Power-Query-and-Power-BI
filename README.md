@@ -37,6 +37,9 @@ Nova Bank faces a dual challenge: approving loans to deserving customers while m
   - **Visual Storytelling**: Used scatter plots, bar charts, pie charts, and line graphs to communicate insights clearly and intuitively.
 
 ---
+### Dashboard
+
+<img width="1097" height="1961" alt="A4" src="https://github.com/user-attachments/assets/de1433c6-314c-4349-98d4-30b99f06226b" />
 
 
 ### Key Insights
